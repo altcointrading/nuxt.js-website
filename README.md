@@ -1,3 +1,10 @@
+
+A nuxt.js clone to be used as a codebase for [comprebitcoins.net](https://comprebitcoins.net)
+
+&copy; 2017 info@altcointrading.net
+
+
+```
 # Nuxt.js Website
 
 ![cosmic Vue Nuxt](https://cloud.githubusercontent.com/assets/904724/22075187/452f04e8-ddab-11e6-897c-3e065da06306.png)
@@ -6,21 +13,20 @@
 
 ### Getting Started
 
-```
 git clone https://github.com/cosmicjs/nuxt.js-website
 cd nuxt.js-website
 npm install # or yarn install
-```
+
 
 #### Run in development
-```
+
 npm run dev
-```
+
 
 #### Run in production
-```
+
 COSMIC_BUCKET=your-bucket-slug npm start
-```
+
 Open [http://localhost:3000](http://localhost:3000).
 
 ### Nuxt.js + Vue + Cosmic JS
@@ -50,3 +56,5 @@ Cosmic JS is a perfect backend to manage your Universal application.
 3. No updates or security updates required.
 
 [... see more on the Cosmic JS website](https://cosmicjs.com).
+
+```
