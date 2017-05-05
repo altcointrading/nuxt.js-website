@@ -3,6 +3,8 @@ A nuxt.js clone to be used as a codebase for [comprebitcoins.net](https://compre
 
 &copy; 2017 info@altcointrading.net
 
+Content feed via Cosmic JS `https://api.cosmicjs.com/v1/cbnet`
+
 
 ```
 # Nuxt.js Website
