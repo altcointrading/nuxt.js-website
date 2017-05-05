@@ -5,6 +5,12 @@ A nuxt.js clone to be used as a codebase for [comprebitcoins.net](https://compre
 
 Content feed via Cosmic JS `https://api.cosmicjs.com/v1/cbnet`
 
+## Deploy on alt server
+
+Have a post-receive hook that does `npm i && npm run build && COSMIC_BUCKET=cbnet npm start`
+
+
+
 
 ```
 # Nuxt.js Website
