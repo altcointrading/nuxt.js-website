@@ -1,7 +1,7 @@
 module.exports = {
   cosmic: {
     bucket: {
-      slug: 'nuxt-website',
+      slug: 'cbnet',
       read_key: '',
       write_key: ''
     }
