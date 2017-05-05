@@ -10,8 +10,6 @@ Content feed via Cosmic JS `https://api.cosmicjs.com/v1/cbnet`
 Have a post-receive hook that does `npm i && npm run build && COSMIC_BUCKET=cbnet npm start`
 
 
-
-
 ```
 # Nuxt.js Website
 
